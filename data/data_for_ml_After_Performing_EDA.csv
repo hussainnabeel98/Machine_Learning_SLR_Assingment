@@ -1,0 +1,58 @@
+Hours_Studied,Sleep_Hours,Internet_Usage,Gender,Study_Method,Attendance,Final_Score
+2.0,6.0,3.0,Male,Self Study,75.0,55.0
+3.0,7.0,2.0,Female,Coaching,80.0,60.0
+4.0,6.0,4.0,male,Self Study,78.0,62.0
+5.0,8.0,3.0,Femle,Group Study,85.0,70.0
+6.0,7.0,5.0,Male,Self Study,88.0,72.0
+7.0,6.0,6.0,Female,coaching,90.0,75.0
+8.0,7.0,4.0,Male,Group Study,92.0,80.0
+2.0,5.0,7.0,Female,Self Study,70.0,50.0
+3.0,6.0,6.0,Male,Self Study,75.0,55.0
+4.0,7.0,5.0,Female,Group Study,82.0,65.0
+5.0,8.0,4.0,Male,Self Study,85.0,68.0
+6.0,6.0,5.0,Female,Coaching,88.0,72.0
+7.0,7.0,6.0,Male,Self Study,90.0,76.0
+8.0,8.0,3.0,Female,Group Study,95.0,85.0
+5.178571428571429,7.0,4.0,Male,Self Study,80.0,65.0
+5.0,6.696428571428571,5.0,Female,Coaching,85.0,70.0
+6.0,6.0,4.678571428571429,Male,Group Study,88.0,72.0
+7.0,7.0,6.0,Female,Self Study,90.0,75.0
+8.0,8.0,3.0,Female,Self Study,92.0,80.0
+4.0,6.0,5.0,Male,Self Study,83.89285714285714,60.0
+3.0,5.0,6.0,Female,Coaching,78.0,68.19642857142857
+2.0,6.0,7.0,Male,Self Study,70.0,52.0
+5.0,8.0,4.0,Female,Group Study,85.0,68.0
+6.0,7.0,5.0,Male,Self Study,88.0,72.0
+7.0,6.0,6.0,Female,Coaching,90.0,75.0
+8.0,7.0,4.0,Male,Group Study,92.0,80.0
+2.0,5.0,7.0,Female,Self Study,70.0,50.0
+3.0,6.0,6.0,Male,Self Study,75.0,55.0
+4.0,7.0,5.0,Female,Group Study,82.0,65.0
+5.0,8.0,4.0,Male,Self Study,85.0,68.0
+6.0,6.0,5.0,Female,Coaching,88.0,72.0
+7.0,7.0,6.0,Male,Self Study,90.0,76.0
+8.0,8.0,3.0,Female,Group Study,95.0,85.0
+2.0,6.0,3.0,Male,Self Study,75.0,55.0
+3.0,7.0,2.0,Female,Coaching,80.0,60.0
+4.0,6.0,4.0,male,Self Study,78.0,62.0
+5.0,8.0,3.0,Femle,Group Study,85.0,70.0
+6.0,7.0,5.0,Male,Self Study,88.0,72.0
+7.0,6.0,6.0,Female,coaching,90.0,75.0
+8.0,7.0,4.0,Male,Group Study,92.0,80.0
+2.0,5.0,7.0,Female,Self Study,70.0,50.0
+3.0,6.0,6.0,Male,Self Study,75.0,55.0
+4.0,7.0,5.0,Female,Group Study,82.0,65.0
+5.0,8.0,4.0,Male,Self Study,85.0,68.0
+6.0,6.0,5.0,Female,Coaching,88.0,72.0
+7.0,7.0,6.0,Male,Self Study,90.0,76.0
+8.0,8.0,3.0,Female,Group Study,95.0,85.0
+1.0,5.0,8.0,Male,Self Study,65.0,45.0
+9.0,8.0,2.0,Female,Coaching,96.0,88.0
+10.0,7.0,1.0,Male,Self Study,98.0,92.0
+1.0,4.0,9.0,Female,Group Study,60.0,40.0
+9.0,9.0,2.0,Male,Self Study,97.0,90.0
+10.0,8.0,1.0,Female,Coaching,99.0,94.0
+3.0,6.0,6.0,Male,Self Study,75.0,55.0
+3.0,6.0,6.0,Male,Self Study,75.0,55.0
+4.0,7.0,5.0,Female,Group Study,82.0,65.0
+4.0,7.0,5.0,Female,Group Study,82.0,65.0
